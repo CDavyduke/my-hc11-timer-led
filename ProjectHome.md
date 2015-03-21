@@ -1,0 +1,1 @@
+This project is essentially the same as the "Timer" function found in the Gel firmware examples with a slight modification to blink an LED every second.  The primary purpose of this project is to finally begin using interrupts in my projects for the first time.  Many ideas will be expanded upon this foundation.
